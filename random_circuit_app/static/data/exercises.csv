@@ -1,0 +1,331 @@
+title,body_part,difficulty,equipment,image1,image2
+Triceps Pressdown,['Arms'],Beginner,['Resistance Bands/Cables'],TricepsPressdown_3-1.jpg,TricepsPressdown_3-2.jpg
+Chest Press,"['Arms', 'Chest', 'Shoulders']",Beginner,"['Barbell', 'Bench']",ChestPress_5-1.jpg,ChestPress_5-2.jpg
+Supine Pelvic Tilts,['Abs'],Beginner,['No Equipment'],SupinePelvicTilts_7-1.jpg,SupinePelvicTilts_7-2.jpg
+Supermans,"['Back', 'Butt/Hips', 'Shoulders']",Beginner,['No Equipment'],Supermans_9-1.jpg,Supermans_9-2.jpg
+Bent Knee Push-up,"['Arms', 'Chest', 'Shoulders']",Beginner,['No Equipment'],BentKneePush-up_13-1.jpg,BentKneePush-up_13-2.jpg
+Cat-Cow,"['Back', 'Chest']",Beginner,['No Equipment'],Cat-Cow_15-1.jpg,Cat-Cow_15-2.jpg
+Cobra Exercise,"['Abs', 'Back']",Beginner,['No Equipment'],CobraExercise_16-1.jpg,CobraExercise_16-2.jpg
+Ankle Flexion ,['Legs - Calves and Shins'],Beginner,['Resistance Bands/Cables'],AnkleFlexion_23-1.jpg,AnkleFlexion_23-2.jpg
+Incline Chest Press,"['Chest', 'Shoulders']",Beginner,"['Bench', 'Dumbbells']",InclineChestPress_25-1.jpg,InclineChestPress_25-2.jpg
+Lateral Raise,['Shoulders'],Beginner,['Dumbbells'],LateralRaise_26-1.jpg,LateralRaise_26-2.jpg
+Step-up,"['Butt/Hips', 'Legs - Thighs']",Beginner,"['Dumbbells', 'Raised Platform/Box']",Step-up_28-1.jpg,Step-up_28-2.jpg
+Wrist Curl - Extension,['Arms'],Beginner,"['Bench', 'Dumbbells']",WristCurl-Extension_29-1.jpg,WristCurl-Extension_29-2.jpg
+Wrist Curl - Flexion,['Arms'],Beginner,"['Bench', 'Dumbbells']",WristCurl-Flexion_30-1.jpg,WristCurl-Flexion_30-2.jpg
+Wrist Supination & Pronation Exercises,['Arms'],Beginner,"['Bench', 'Dumbbells']",WristSupination&PronationExercises_31-1.jpg,WristSupination&PronationExercises_31-2.jpg
+Hip Hinge,"['Butt/Hips', 'Legs - Thighs']",Beginner,['Barbell'],HipHinge_33-1.jpg,HipHinge_33-2.jpg
+Incline Reverse Fly,"['Back', 'Shoulders']",Beginner,"['Bench', 'Dumbbells']",InclineReverseFly_34-1.jpg,InclineReverseFly_34-2.jpg
+Side Lying Hip Abduction,['Butt/Hips'],Beginner,['No Equipment'],SideLyingHipAbduction_38-1.jpg,SideLyingHipAbduction_38-2.jpg
+Side Lying Hip Adduction,"['Butt/Hips', 'Legs - Thighs']",Beginner,['No Equipment'],SideLyingHipAdduction_39-1.jpg,SideLyingHipAdduction_39-2.jpg
+Seated Biceps Curl,['Arms'],Beginner,"['Bench', 'Dumbbells']",SeatedBicepsCurl_44-1.jpg,SeatedBicepsCurl_44-2.jpg
+Seated High Back Row ,"['Arms', 'Back', 'Shoulders']",Beginner,"['Bench', 'Resistance Bands/Cables']",SeatedHighBackRow_46-1.jpg,SeatedHighBackRow_46-2.jpg
+Seated Medicine Ball Trunk Rotations,['Abs'],Beginner,['Medicine Ball'],SeatedMedicineBallTrunkRotations_47-1.jpg,SeatedMedicineBallTrunkRotations_47-2.jpg
+Seated Row ,"['Arms', 'Back']",Beginner,['Resistance Bands/Cables'],SeatedRow_48-1.jpg,SeatedRow_48-2.jpg
+Glute Bridge Exercise,"['Abs', 'Butt/Hips']",Beginner,['No Equipment'],GluteBridgeExercise_49-1.jpg,GluteBridgeExercise_49-2.jpg
+Crunch,['Abs'],Beginner,['No Equipment'],Crunch_52-1.jpg,Crunch_52-2.jpg
+Contralateral Limb Raises,"['Back', 'Butt/Hips', 'Shoulders']",Beginner,['No Equipment'],ContralateralLimbRaises_53-1.jpg,ContralateralLimbRaises_53-2.jpg
+Front Raise,['Shoulders'],Beginner,['Dumbbells'],FrontRaise_54-1.jpg,FrontRaise_54-2.jpg
+Triceps Kickback,['Arms'],Beginner,['Dumbbells'],TricepsKickback_55-1.jpg,TricepsKickback_55-2.jpg
+Stability Ball Sit-ups / Crunches,['Abs'],Beginner,['Stability Ball'],StabilityBallSit-ups_Crunches_68-1.jpg,StabilityBallSit-ups_Crunches_68-2.jpg
+Stability Ball Wall Squats,"['Butt/Hips', 'Legs - Thighs']",Beginner,['Stability Ball'],StabilityBallWallSquats_69-1.jpg,StabilityBallWallSquats_69-2.jpg
+Standing Calf Raises - Wall,['Legs - Calves and Shins'],Beginner,['No Equipment'],StandingCalfRaises-Wall_73-1.jpg,StandingCalfRaises-Wall_73-2.jpg
+Half-kneeling Hay Baler,['Abs'],Beginner,['Medicine Ball'],Half-kneelingHayBaler_97-1.jpg,Half-kneelingHayBaler_97-2.jpg
+Side Plank - modified,"['Abs', 'Butt/Hips']",Beginner,['No Equipment'],SidePlank-modified_100-1.jpg,SidePlank-modified_100-2.jpg
+Dirty Dog,"['Abs', 'Butt/Hips']",Beginner,['No Equipment'],DirtyDog_109-1.jpg,DirtyDog_109-2.jpg
+Forward Stepping over Cones ,"['Abs', 'Butt/Hips']",Beginner,['Cones'],ForwardSteppingoverCones_111-1.jpg,ForwardSteppingoverCones_111-2.jpg
+Single Leg Stand,['Abs'],Beginner,['No Equipment'],SingleLegStand_112-1.jpg,SingleLegStand_112-2.jpg
+Squat Jumps,"['Butt/Hips', 'Legs - Thighs']",Beginner,['No Equipment'],SquatJumps_116-1.jpg,SquatJumps_116-2.jpg
+Supine Hollowing with Lower Extremity Movements,['Abs'],Beginner,['No Equipment'],SupineHollowingwithLowerExtremityMovements_121-1.jpg,SupineHollowingwithLowerExtremityMovements_121-2.jpg
+Supine Rotator Cuff ,"['Abs', 'Shoulders']",Beginner,['No Equipment'],SupineRotatorCuff_122-1.jpg,SupineRotatorCuff_122-2.jpg
+Supine Shoulder Flexion ,['Shoulders'],Beginner,['No Equipment'],SupineShoulderFlexion_123-1.jpg,SupineShoulderFlexion_123-2.jpg
+Supine Snow Angel (Wipers) Exercise,"['Abs', 'Chest', 'Shoulders']",Beginner,['No Equipment'],SupineSnowAngel(Wipers)Exercise_124-1.jpg,SupineSnowAngel(Wipers)Exercise_124-2.jpg
+Prone (Lying) Hamstrings Curl,['Legs - Thighs'],Beginner,['Resistance Bands/Cables'],Prone(Lying)HamstringsCurl_131-1.jpg,Prone(Lying)HamstringsCurl_131-2.jpg
+Bodyweight Squat,"['Abs', 'Butt/Hips', 'Legs - Calves and Shins', 'Legs - Thighs']",Beginner,['No Equipment'],BodyweightSquat_135-1.jpg,BodyweightSquat_135-2.jpg
+Standing Lunge Stretch,"['Butt/Hips', 'Legs - Thighs']",Beginner,['No Equipment'],StandingLungeStretch_137-1.jpg,StandingLungeStretch_137-2.jpg
+Kneeling Lat Stretch (w/bench),['Back'],Beginner,['Bench'],KneelingLatStretch(w_bench)_141-1.jpg,KneelingLatStretch(w_bench)_141-2.jpg
+Kneeling Hip-flexor Stretch ,"['Butt/Hips', 'Legs - Thighs']",Beginner,['No Equipment'],KneelingHip-flexorStretch_142-1.jpg,KneelingHip-flexorStretch_142-2.jpg
+Supine Hip Flexor Stretch,"['Butt/Hips', 'Legs - Thighs']",Beginner,['No Equipment'],SupineHipFlexorStretch_146-1.jpg,SupineHipFlexorStretch_146-2.jpg
+Supine Dead Bug,['Abs'],Beginner,['No Equipment'],SupineDeadBug_147-1.jpg,SupineDeadBug_147-2.jpg
+Supine 90-90 Hip Rotator Stretch,"['Butt/Hips', 'Legs - Thighs']",Beginner,['No Equipment'],Supine90-90HipRotatorStretch_148-1.jpg,Supine90-90HipRotatorStretch_148-2.jpg
+Side Lying Quadriceps Stretch ,['Legs - Thighs'],Beginner,['No Equipment'],SideLyingQuadricepsStretch_149-1.jpg,SideLyingQuadricepsStretch_149-2.jpg
+Standing Dorsi-Flexion (Calf Stretch),['Legs - Calves and Shins'],Beginner,['No Equipment'],StandingDorsi-Flexion(CalfStretch)_152-1.jpg,StandingDorsi-Flexion(CalfStretch)_152-2.jpg
+Lying Hamstrings Curl,['Butt/Hips'],Beginner,['Weight Machines / Selectorized'],LyingHamstringsCurl_153-1.jpg,LyingHamstringsCurl_153-2.jpg
+Seated Leg Press Exercise,"['Butt/Hips', 'Legs - Thighs']",Beginner,['Weight Machines / Selectorized'],SeatedLegPressExercise_154-1.jpg,SeatedLegPressExercise_154-2.jpg
+Seated Lat Pulldown,['Back'],Beginner,['Weight Machines / Selectorized'],SeatedLatPulldown_158-1.jpg,SeatedLatPulldown_158-2.jpg
+Seated Cable Press,['Chest'],Beginner,"['Resistance Bands/Cables', 'Weight Machines / Selectorized']",SeatedCablePress_165-1.jpg,SeatedCablePress_165-2.jpg
+Seated Decline Cable Press ,['Chest'],Beginner,"['Resistance Bands/Cables', 'Weight Machines / Selectorized']",SeatedDeclineCablePress_166-1.jpg,SeatedDeclineCablePress_166-2.jpg
+Seated Incline Cable Press,['Chest'],Beginner,"['Resistance Bands/Cables', 'Weight Machines / Selectorized']",SeatedInclineCablePress_167-1.jpg,SeatedInclineCablePress_167-2.jpg
+Seated Row ,"['Arms', 'Back']",Beginner,['Weight Machines / Selectorized'],SeatedRow_168-1.jpg,SeatedRow_168-2.jpg
+Seated High Back Rows,"['Arms', 'Back']",Beginner,['Weight Machines / Selectorized'],SeatedHighBackRows_169-1.jpg,SeatedHighBackRows_169-2.jpg
+Overhead Triceps Stretch,['Arms'],Beginner,['No Equipment'],OverheadTricepsStretch_174-1.jpg,OverheadTricepsStretch_174-2.jpg
+Forward Linear Jumps,"['Butt/Hips', 'Full Body/Integrated', 'Legs - Calves and Shins', 'Legs - Thighs']",Beginner,['No Equipment'],ForwardLinearJumps_177-1.jpg,ForwardLinearJumps_177-2.jpg
+Lateral Shuffles,"['Butt/Hips', 'Legs - Thighs']",Beginner,['Cones'],LateralShuffles_181-1.jpg,LateralShuffles_181-2.jpg
+Seated Leg Extension ,['Legs - Thighs'],Beginner,['Weight Machines / Selectorized'],SeatedLegExtension_183-1.jpg,SeatedLegExtension_183-2.jpg
+Seated Biceps Curl,['Arms'],Beginner,['Weight Machines / Selectorized'],SeatedBicepsCurl_184-1.jpg,SeatedBicepsCurl_184-2.jpg
+Triceps Pushdowns ,['Arms'],Beginner,['Weight Machines / Selectorized'],TricepsPushdowns_185-1.jpg,TricepsPushdowns_185-2.jpg
+Seated Shoulder Press ,"['Arms', 'Shoulders']",Beginner,['Weight Machines / Selectorized'],SeatedShoulderPress_186-1.jpg,SeatedShoulderPress_186-2.jpg
+Seated Machine Close-Grip Shoulder Press,"['Arms', 'Shoulders']",Beginner,['Weight Machines / Selectorized'],SeatedMachineClose-GripShoulderPress_187-1.jpg,SeatedMachineClose-GripShoulderPress_187-2.jpg
+Seated Chest Press  ,['Chest'],Beginner,['Weight Machines / Selectorized'],SeatedChestPress_188-1.jpg,SeatedChestPress_188-2.jpg
+Seated Close-Grip Chest Press,"['Arms', 'Chest']",Beginner,['Weight Machines / Selectorized'],SeatedClose-GripChestPress_189-1.jpg,SeatedClose-GripChestPress_189-2.jpg
+Thomas Stretch,"['Butt/Hips', 'Legs - Thighs']",Beginner,['No Equipment'],ThomasStretch_192-1.jpg,ThomasStretch_192-2.jpg
+Kneeling TA Stretch,"['Butt/Hips', 'Legs - Thighs']",Beginner,['No Equipment'],KneelingTAStretch_195-1.jpg,KneelingTAStretch_195-2.jpg
+90 Lat Stretch,['Back'],Beginner,['No Equipment'],90LatStretch_198-1.jpg,90LatStretch_198-2.jpg
+Standing Shoulder Extension,['Arms'],Beginner,['No Equipment'],StandingShoulderExtension_199-1.jpg,StandingShoulderExtension_199-2.jpg
+Lateral Neck Flexion,['Neck'],Beginner,['No Equipment'],LateralNeckFlexion_202-1.jpg,LateralNeckFlexion_202-2.jpg
+Neck Flexion and Extension,['Neck'],Beginner,['No Equipment'],NeckFlexionandExtension_204-1.jpg,NeckFlexionandExtension_204-2.jpg
+Shoulder Packing,"['Back', 'Shoulders']",Beginner,['No Equipment'],ShoulderPacking_205-1.jpg,ShoulderPacking_205-2.jpg
+Seated Bent-Knee Biceps Stretch,['Arms'],Beginner,['No Equipment'],SeatedBent-KneeBicepsStretch_208-1.jpg,SeatedBent-KneeBicepsStretch_208-2.jpg
+Standing Chest Stretch,['Chest'],Beginner,['No Equipment'],StandingChestStretch_209-1.jpg,StandingChestStretch_209-2.jpg
+Seated Straddle Stretch ,"['Back', 'Legs - Thighs']",Beginner,['No Equipment'],SeatedStraddleStretch_210-1.jpg,SeatedStraddleStretch_210-2.jpg
+Seated Side-Straddle Stretch ,"['Abs', 'Back', 'Legs - Thighs']",Beginner,['No Equipment'],SeatedSide-StraddleStretch_212-1.jpg,SeatedSide-StraddleStretch_212-2.jpg
+Seated Toe Touches ,"['Legs - Calves and Shins', 'Legs - Thighs']",Beginner,['No Equipment'],SeatedToeTouches_213-1.jpg,SeatedToeTouches_213-2.jpg
+Seated Calf Stretch,['Legs - Calves and Shins'],Beginner,['No Equipment'],SeatedCalfStretch_214-1.jpg,SeatedCalfStretch_214-2.jpg
+Seated Butterfly Stretch ,['Legs - Thighs'],Beginner,['No Equipment'],SeatedButterflyStretch_216-1.jpg,SeatedButterflyStretch_216-2.jpg
+Forward Hurdle Run,"['Butt/Hips', 'Legs - Calves and Shins']",Beginner,['Hurdles'],ForwardHurdleRun_221-1.jpg,ForwardHurdleRun_221-2.jpg
+Squat Jump,"['Butt/Hips', 'Legs - Thighs']",Beginner,['No Equipment'],SquatJump_222-1.jpg,SquatJump_222-2.jpg
+Childs Pose,"['Abs', 'Back', 'Butt/Hips', 'Legs - Thighs']",Beginner,['No Equipment'],ChildsPose_227-1.jpg,ChildsPose_227-2.jpg
+Warrior I,"['Butt/Hips', 'Full Body/Integrated', 'Legs - Thighs']",Beginner,['No Equipment'],WarriorI_228-1.jpg,WarriorI_228-2.jpg
+Single Leg Push-off,"['Butt/Hips', 'Legs - Calves and Shins', 'Legs - Thighs']",Beginner,['Raised Platform/Box'],SingleLegPush-off_230-1.jpg,SingleLegPush-off_230-2.jpg
+Leg Crossover Stretch ,"['Butt/Hips', 'Legs - Thighs']",Beginner,['No Equipment'],LegCrossoverStretch_231-1.jpg,LegCrossoverStretch_231-2.jpg
+Supine Hamstrings Stretch,"['Legs - Calves and Shins', 'Legs - Thighs']",Beginner,['No Equipment'],SupineHamstringsStretch_235-1.jpg,SupineHamstringsStretch_235-2.jpg
+Supine Reverse Marches,['Abs'],Beginner,['No Equipment'],SupineReverseMarches_238-1.jpg,SupineReverseMarches_238-2.jpg
+Upward Facing Dog,"['Abs', 'Back']",Beginner,['No Equipment'],UpwardFacingDog_244-1.jpg,UpwardFacingDog_244-2.jpg
+V Sit Partner Rotations,['Abs'],Beginner,['Medicine Ball'],VSitPartnerRotations_263-1.jpg,VSitPartnerRotations_263-2.jpg
+Partner Assisted Bodyweight Squats,"['Abs', 'Butt/Hips', 'Legs - Thighs']",Beginner,['No Equipment'],PartnerAssistedBodyweightSquats_265-1.jpg,PartnerAssistedBodyweightSquats_265-2.jpg
+Partner Tricep Extension,"['Abs', 'Arms', 'Butt/Hips']",Beginner,['Resistance Bands/Cables'],PartnerTricepExtension_269-1.jpg,PartnerTricepExtension_269-2.jpg
+Quadruped Bent-knee Hip Extensions,"['Abs', 'Butt/Hips']",Beginner,['No Equipment'],QuadrupedBent-kneeHipExtensions_270-1.jpg,QuadrupedBent-kneeHipExtensions_270-2.jpg
+Modified Hurdler's Stretch,['Legs - Thighs'],Beginner,['No Equipment'],ModifiedHurdler_sStretch_273-1.jpg,ModifiedHurdler_sStretch_273-2.jpg
+Walking Abduction,['Butt/Hips'],Beginner,['Resistance Bands/Cables'],WalkingAbduction_290-1.jpg,WalkingAbduction_290-2.jpg
+Seated Crunch,['Abs'],Beginner,['Weight Machines / Selectorized'],SeatedCrunch_291-1.jpg,SeatedCrunch_291-2.jpg
+Tricep Extension,['Arms'],Beginner,['Weight Machines / Selectorized'],TricepExtension_292-1.jpg,TricepExtension_292-2.jpg
+Glute Press,['Butt/Hips'],Beginner,['Weight Machines / Selectorized'],GlutePress_293-1.jpg,GlutePress_293-2.jpg
+Calf Raise,['Legs - Calves and Shins'],Beginner,['Weight Machines / Selectorized'],CalfRaise_294-1.jpg,CalfRaise_294-2.jpg
+Lateral Shoulder Raise,['Shoulders'],Beginner,['Weight Machines / Selectorized'],LateralShoulderRaise_295-1.jpg,LateralShoulderRaise_295-2.jpg
+Kneeling ABC's,['Abs'],Beginner,['Stability Ball'],KneelingABC_s_299-1.jpg,KneelingABC_s_299-2.jpg
+Decline Plank,['Abs'],Beginner,['BOSU Trainer'],DeclinePlank_304-1.jpg,DeclinePlank_304-2.jpg
+Standing Bicep Curl,['Arms'],Beginner,['Resistance Bands/Cables'],StandingBicepCurl_322-1.jpg,StandingBicepCurl_322-2.jpg
+Standing Crunch,['Abs'],Beginner,['Resistance Bands/Cables'],StandingCrunch_331-1.jpg,StandingCrunch_331-2.jpg
+Tricep Pressdown Exercise,['Arms'],Beginner,['Resistance Bands/Cables'],TricepPressdownExercise_333-1.jpg,TricepPressdownExercise_333-2.jpg
+Anti-rotation Reverse Lunge,['Full Body/Integrated'],Beginner,['Resistance Bands/Cables'],Anti-rotationReverseLunge_348-1.jpg,Anti-rotationReverseLunge_348-2.jpg
+Rotator Cuff Internal Rotation,['Shoulders'],Beginner,['Resistance Bands/Cables'],RotatorCuffInternalRotation_351-1.jpg,RotatorCuffInternalRotation_351-2.jpg
+Rotator Cuff External Rotation,['Shoulders'],Beginner,['Resistance Bands/Cables'],RotatorCuffExternalRotation_352-1.jpg,RotatorCuffExternalRotation_352-2.jpg
+Single-arm Lateral Raise,['Shoulders'],Beginner,['Resistance Bands/Cables'],Single-armLateralRaise_354-1.jpg,Single-armLateralRaise_354-2.jpg
+V-raise,['Shoulders'],Beginner,['Dumbbells'],V-raise_370-1.jpg,V-raise_370-2.jpg
+Forward Lunge,"['Butt/Hips', 'Legs - Thighs']",Intermediate,['Barbell'],ForwardLunge_8-1.jpg,ForwardLunge_8-2.jpg
+Hammer Curl,['Arms'],Intermediate,['Dumbbells'],HammerCurl_10-1.jpg,HammerCurl_10-2.jpg
+Bird-dog,"['Abs', 'Back', 'Butt/Hips']",Intermediate,['No Equipment'],Bird-dog_14-1.jpg,Bird-dog_14-2.jpg
+Downward-facing Dog,"['Arms', 'Back', 'Butt/Hips', 'Full Body/Integrated', 'Legs - Calves and Shins', 'Legs - Thighs']",Intermediate,['No Equipment'],Downward-facingDog_18-1.jpg,Downward-facingDog_18-2.jpg
+Chest Press,"['Arms', 'Chest', 'Shoulders']",Intermediate,"['Bench', 'Dumbbells']",ChestPress_19-1.jpg,ChestPress_19-2.jpg
+Lying Chest Fly,"['Chest', 'Shoulders']",Intermediate,"['Bench', 'Dumbbells']",LyingChestFly_21-1.jpg,LyingChestFly_21-2.jpg
+Front Squat,"['Back', 'Butt/Hips', 'Full Body/Integrated', 'Legs - Thighs']",Intermediate,['Dumbbells'],FrontSquat_22-1.jpg,FrontSquat_22-2.jpg
+Front Plank,"['Abs', 'Back']",Intermediate,['No Equipment'],FrontPlank_32-1.jpg,FrontPlank_32-2.jpg
+Kneeling Lat Pulldown,['Back'],Intermediate,['Resistance Bands/Cables'],KneelingLatPulldown_35-1.jpg,KneelingLatPulldown_35-2.jpg
+Lying Barbell Triceps Extensions ,['Arms'],Intermediate,"['Barbell', 'Bench']",LyingBarbellTricepsExtensions_36-1.jpg,LyingBarbellTricepsExtensions_36-2.jpg
+Lying Pullovers,['Chest'],Intermediate,"['Bench', 'Dumbbells']",LyingPullovers_37-1.jpg,LyingPullovers_37-2.jpg
+Push-up,"['Arms', 'Chest', 'Shoulders']",Intermediate,['No Equipment'],Push-up_41-1.jpg,Push-up_41-2.jpg
+Seated Shoulder Press,"['Arms', 'Shoulders']",Intermediate,"['Barbell', 'Bench']",SeatedShoulderPress_43-1.jpg,SeatedShoulderPress_43-2.jpg
+Seated Overhead Press,"['Arms', 'Shoulders']",Intermediate,"['Bench', 'Dumbbells']",SeatedOverheadPress_45-1.jpg,SeatedOverheadPress_45-2.jpg
+Side Lunge,"['Butt/Hips', 'Legs - Thighs']",Intermediate,['No Equipment'],SideLunge_50-1.jpg,SideLunge_50-2.jpg
+Calf Raises,['Legs - Calves and Shins'],Intermediate,['Barbell'],CalfRaises_51-1.jpg,CalfRaises_51-2.jpg
+Stability Ball Hamstring Curl,"['Butt/Hips', 'Legs - Thighs']",Intermediate,['Stability Ball'],StabilityBallHamstringCurl_59-1.jpg,StabilityBallHamstringCurl_59-2.jpg
+Stability Ball Prone Walkout,"['Abs', 'Back']",Intermediate,['Stability Ball'],StabilityBallProneWalkout_62-1.jpg,StabilityBallProneWalkout_62-2.jpg
+Stability Ball Push-Up,"['Chest', 'Shoulders']",Intermediate,['Stability Ball'],StabilityBallPush-Up_63-1.jpg,StabilityBallPush-Up_63-2.jpg
+Glute Bridge ,"['Abs', 'Butt/Hips', 'Legs - Thighs']",Intermediate,['Stability Ball'],GluteBridge_66-1.jpg,GluteBridge_66-2.jpg
+Stability Ball Shoulder Stabilization,"['Back', 'Shoulders']",Intermediate,['Stability Ball'],StabilityBallShoulderStabilization_67-1.jpg,StabilityBallShoulderStabilization_67-2.jpg
+Bicep Curl,['Arms'],Intermediate,['Barbell'],BicepCurl_70-1.jpg,BicepCurl_70-2.jpg
+Shrug,['Back'],Intermediate,['Barbell'],Shrug_72-1.jpg,Shrug_72-2.jpg
+Triceps Extension,['Arms'],Intermediate,['Dumbbells'],TricepsExtension_74-1.jpg,TricepsExtension_74-2.jpg
+Standing Shrug,['Back'],Intermediate,['Dumbbells'],StandingShrug_75-1.jpg,StandingShrug_75-2.jpg
+Reverse Ab Crunch,['Abs'],Intermediate,['No Equipment'],ReverseAbCrunch_76-1.jpg,ReverseAbCrunch_76-2.jpg
+TRX ® Assisted Cross-over Lunge with Arm Raise,"['Back', 'Butt/Hips', 'Shoulders']",Intermediate,['TRX'],TRX®AssistedCross-overLungewithArmRaise_82-1.jpg,TRX®AssistedCross-overLungewithArmRaise_82-2.jpg
+TRX ® Assisted Side Lunge with Arm Raise,"['Back', 'Butt/Hips', 'Full Body/Integrated', 'Legs - Calves and Shins', 'Shoulders']",Intermediate,['TRX'],TRX®AssistedSideLungewithArmRaise_83-1.jpg,TRX®AssistedSideLungewithArmRaise_83-2.jpg
+Forward Lunge,"['Abs', 'Butt/Hips', 'Legs - Thighs']",Intermediate,['No Equipment'],ForwardLunge_94-1.jpg,ForwardLunge_94-2.jpg
+Side Plank with Straight Leg,"['Abs', 'Butt/Hips']",Intermediate,['No Equipment'],SidePlankwithStraightLeg_101-1.jpg,SidePlankwithStraightLeg_101-2.jpg
+Standing Trunk Rotation,['Abs'],Intermediate,['Resistance Bands/Cables'],StandingTrunkRotation_102-1.jpg,StandingTrunkRotation_102-2.jpg
+Standing Hip Adduction,"['Abs', 'Butt/Hips', 'Legs - Thighs']",Intermediate,['Resistance Bands/Cables'],StandingHipAdduction_104-1.jpg,StandingHipAdduction_104-2.jpg
+Standing Trunk Rotation,['Abs'],Intermediate,['Medicine Ball'],StandingTrunkRotation_106-1.jpg,StandingTrunkRotation_106-2.jpg
+Hip Rotations (Push-up Position),"['Abs', 'Butt/Hips', 'Legs - Thighs']",Intermediate,['No Equipment'],HipRotations(Push-upPosition)_110-1.jpg,HipRotations(Push-upPosition)_110-2.jpg
+Box Jumps,"['Butt/Hips', 'Legs - Calves and Shins', 'Legs - Thighs']",Intermediate,['Raised Platform/Box'],BoxJumps_115-1.jpg,BoxJumps_115-2.jpg
+BOSU® Squat Jumps,"['Abs', 'Butt/Hips', 'Legs - Thighs']",Intermediate,['BOSU Trainer'],BOSU®SquatJumps_117-1.jpg,BOSU®SquatJumps_117-2.jpg
+Forward Cone Jumps,"['Butt/Hips', 'Legs - Thighs']",Intermediate,['Cones'],ForwardConeJumps_118-1.jpg,ForwardConeJumps_118-2.jpg
+Lateral Cone Jumps,"['Butt/Hips', 'Legs - Calves and Shins', 'Legs - Thighs']",Intermediate,['Cones'],LateralConeJumps_120-1.jpg,LateralConeJumps_120-2.jpg
+Single-arm Row,['Back'],Intermediate,"['Bench', 'Dumbbells']",Single-armRow_126-1.jpg,Single-armRow_126-2.jpg
+Kneeling Reverse Fly,"['Back', 'Shoulders']",Intermediate,['Resistance Bands/Cables'],KneelingReverseFly_128-1.jpg,KneelingReverseFly_128-2.jpg
+Sumo Rotational Squats,"['Butt/Hips', 'Legs - Thighs']",Intermediate,['No Equipment'],SumoRotationalSquats_129-1.jpg,SumoRotationalSquats_129-2.jpg
+Standing Hamstrings Curl,"['Abs', 'Legs - Thighs']",Intermediate,['Resistance Bands/Cables'],StandingHamstringsCurl_132-1.jpg,StandingHamstringsCurl_132-2.jpg
+Standing Leg Extension,"['Abs', 'Legs - Thighs']",Intermediate,['Resistance Bands/Cables'],StandingLegExtension_133-1.jpg,StandingLegExtension_133-2.jpg
+Single Leg Squat,"['Butt/Hips', 'Legs - Calves and Shins', 'Legs - Thighs']",Intermediate,['No Equipment'],SingleLegSquat_136-1.jpg,SingleLegSquat_136-2.jpg
+Walking Lunges with Twists,"['Abs', 'Butt/Hips', 'Legs - Thighs']",Intermediate,['Medicine Ball'],WalkingLungeswithTwists_139-1.jpg,WalkingLungeswithTwists_139-2.jpg
+Lunge with Elbow Instep,"['Abs', 'Butt/Hips', 'Full Body/Integrated', 'Legs - Thighs']",Intermediate,['No Equipment'],LungewithElbowInstep_140-1.jpg,LungewithElbowInstep_140-2.jpg
+Glute Bridge Single Leg Progression,"['Back', 'Butt/Hips', 'Legs - Thighs']",Intermediate,['No Equipment'],GluteBridgeSingleLegProgression_145-1.jpg,GluteBridgeSingleLegProgression_145-2.jpg
+Bear Crawl Exercise,['Full Body/Integrated'],Intermediate,['No Equipment'],BearCrawlExercise_150-1.jpg,BearCrawlExercise_150-2.jpg
+Standing Hip Abduction,"['Abs', 'Butt/Hips', 'Full Body/Integrated']",Intermediate,"['Resistance Bands/Cables', 'Weight Machines / Selectorized']",StandingHipAbduction_155-1.jpg,StandingHipAbduction_155-2.jpg
+Standing Chest Fly,['Chest'],Intermediate,['Resistance Bands/Cables'],StandingChestFly_160-1.jpg,StandingChestFly_160-2.jpg
+Standing Decline Cable Flyes,['Chest'],Intermediate,['Weight Machines / Selectorized'],StandingDeclineCableFlyes_161-1.jpg,StandingDeclineCableFlyes_161-2.jpg
+Standing Incline Cable Flyes,['Chest'],Intermediate,['Weight Machines / Selectorized'],StandingInclineCableFlyes_163-1.jpg,StandingInclineCableFlyes_163-2.jpg
+Forward Linear Ladder Drill,['Full Body/Integrated'],Intermediate,['Ladder'],ForwardLinearLadderDrill_175-1.jpg,ForwardLinearLadderDrill_175-2.jpg
+Jump and Reach,"['Butt/Hips', 'Legs - Calves and Shins', 'Legs - Thighs']",Intermediate,['No Equipment'],JumpandReach_176-1.jpg,JumpandReach_176-2.jpg
+Overhead Medicine Ball Throws,"['Butt/Hips', 'Full Body/Integrated', 'Shoulders']",Intermediate,['Medicine Ball'],OverheadMedicineBallThrows_178-1.jpg,OverheadMedicineBallThrows_178-2.jpg
+Tuck Jump,['Butt/Hips'],Intermediate,['No Equipment'],TuckJump_180-1.jpg,TuckJump_180-2.jpg
+Overhead Slams,"['Back', 'Butt/Hips', 'Full Body/Integrated', 'Legs - Thighs', 'Shoulders']",Intermediate,['Medicine Ball'],OverheadSlams_182-1.jpg,OverheadSlams_182-2.jpg
+Chin-ups ,"['Arms', 'Back']",Intermediate,['Pull up bar'],Chin-ups_190-1.jpg,Chin-ups_190-2.jpg
+Pull-ups,"['Arms', 'Back']",Intermediate,['Pull up bar'],Pull-ups_191-1.jpg,Pull-ups_191-2.jpg
+Standing Gate Openers (Frankensteins),"['Abs', 'Butt/Hips', 'Legs - Thighs']",Intermediate,['No Equipment'],StandingGateOpeners(Frankensteins)_201-1.jpg,StandingGateOpeners(Frankensteins)_201-2.jpg
+Lateral Over Unders,"['Abs', 'Butt/Hips', 'Legs - Thighs']",Intermediate,"['No Equipment', 'Raised Platform/Box']",LateralOverUnders_206-1.jpg,LateralOverUnders_206-2.jpg
+Step Stretch,['Legs - Calves and Shins'],Intermediate,['Raised Platform/Box'],StepStretch_211-1.jpg,StepStretch_211-2.jpg
+Seated Straddle with Side Reaches ,"['Abs', 'Back', 'Legs - Thighs']",Intermediate,['No Equipment'],SeatedStraddlewithSideReaches_215-1.jpg,SeatedStraddlewithSideReaches_215-2.jpg
+Reverse Slam,"['Butt/Hips', 'Full Body/Integrated', 'Legs - Thighs', 'Shoulders']",Intermediate,['Medicine Ball'],ReverseSlam_218-1.jpg,ReverseSlam_218-2.jpg
+Standing Ankle Mobilization,['Legs - Calves and Shins'],Intermediate,['No Equipment'],StandingAnkleMobilization_224-1.jpg,StandingAnkleMobilization_224-2.jpg
+Standing Triangle Straddle Bends,"['Back', 'Butt/Hips', 'Legs - Thighs']",Intermediate,['No Equipment'],StandingTriangleStraddleBends_225-1.jpg,StandingTriangleStraddleBends_225-2.jpg
+Lateral Hurdle Run,"['Full Body/Integrated', 'Legs - Calves and Shins', 'Legs - Thighs']",Intermediate,['Hurdles'],LateralHurdleRun_226-1.jpg,LateralHurdleRun_226-2.jpg
+Supine Spinal Twist with Rib Grab and Progressions,"['Abs', 'Back', 'Chest', 'Shoulders']",Intermediate,['No Equipment'],SupineSpinalTwistwithRibGrabandProgressions_229-1.jpg,SupineSpinalTwistwithRibGrabandProgressions_229-2.jpg
+Supine IT Band Stretch,['Legs - Thighs'],Intermediate,['No Equipment'],SupineITBandStretch_232-1.jpg,SupineITBandStretch_232-2.jpg
+Cycled Split-Squat Jump,"['Butt/Hips', 'Legs - Calves and Shins', 'Legs - Thighs']",Intermediate,['No Equipment'],CycledSplit-SquatJump_234-1.jpg,CycledSplit-SquatJump_234-2.jpg
+"Shoulder Stability-Mobility Series - I, Y, T, W Formations ",['Shoulders'],Intermediate,['No Equipment'],ShoulderStability-MobilitySeries-I_Y_T_WFormations_237-1.jpg,ShoulderStability-MobilitySeries-I_Y_T_WFormations_237-2.jpg
+Supine Bicycle Crunches,['Abs'],Intermediate,['No Equipment'],SupineBicycleCrunches_241-1.jpg,SupineBicycleCrunches_241-2.jpg
+V-ups,['Abs'],Intermediate,['No Equipment'],V-ups_242-1.jpg,V-ups_242-2.jpg
+Vertical Toe Touches,['Abs'],Intermediate,['No Equipment'],VerticalToeTouches_243-1.jpg,VerticalToeTouches_243-2.jpg
+Spider Walks,"['Arms', 'Full Body/Integrated']",Intermediate,['No Equipment'],SpiderWalks_247-1.jpg,SpiderWalks_247-2.jpg
+"Prone Scapular (Shoulder) Stabilization Series - I, Y, T, W, O Formation","['Back', 'Shoulders']",Intermediate,['No Equipment'],ProneScapular(Shoulder)StabilizationSeries-I_Y_T_W_OFormation_249-1.jpg,ProneScapular(Shoulder)StabilizationSeries-I_Y_T_W_OFormation_249-2.jpg
+Sprinter Pulls,['Full Body/Integrated'],Intermediate,['No Equipment'],SprinterPulls_250-1.jpg,SprinterPulls_250-2.jpg
+Plank with Knee Drag,"['Butt/Hips', 'Legs - Thighs']",Intermediate,['No Equipment'],PlankwithKneeDrag_257-1.jpg,PlankwithKneeDrag_257-2.jpg
+CKC Parascapular Exercises,"['Chest', 'Shoulders']",Intermediate,['No Equipment'],CKCParascapularExercises_259-1.jpg,CKCParascapularExercises_259-2.jpg
+Partner Standing Row with Resistance Tubing ,"['Arms', 'Back', 'Butt/Hips']",Intermediate,['Resistance Bands/Cables'],PartnerStandingRowwithResistanceTubing_267-1.jpg,PartnerStandingRowwithResistanceTubing_267-2.jpg
+Squat,['Butt/Hips'],Intermediate,['Medicine Ball'],Squat_288-1.jpg,Squat_288-2.jpg
+High-low Partner See-saw,['Full Body/Integrated'],Intermediate,['Resistance Bands/Cables'],High-lowPartnerSee-saw_289-1.jpg,High-lowPartnerSee-saw_289-2.jpg
+Supine Shoulder Roll,"['Abs', 'Butt/Hips']",Intermediate,['Stability Ball'],SupineShoulderRoll_296-1.jpg,SupineShoulderRoll_296-2.jpg
+Side Plank,['Abs'],Intermediate,['BOSU Trainer'],SidePlank_303-1.jpg,SidePlank_303-2.jpg
+V-twist,['Abs'],Intermediate,['BOSU Trainer'],V-twist_305-1.jpg,V-twist_305-2.jpg
+Toe Taps,['Full Body/Integrated'],Intermediate,['BOSU Trainer'],ToeTaps_307-1.jpg,ToeTaps_307-2.jpg
+Reverse Bicep Curl,['Arms'],Intermediate,['Barbell'],ReverseBicepCurl_310-1.jpg,ReverseBicepCurl_310-2.jpg
+Close-grip Bench Press,"['Arms', 'Chest']",Intermediate,['Barbell'],Close-gripBenchPress_311-1.jpg,Close-gripBenchPress_311-2.jpg
+Romanian Deadlift,"['Back', 'Butt/Hips', 'Legs - Thighs']",Intermediate,['Barbell'],RomanianDeadlift_317-1.jpg,RomanianDeadlift_317-2.jpg
+Hip Bridge,['Butt/Hips'],Intermediate,['Barbell'],HipBridge_318-1.jpg,HipBridge_318-2.jpg
+Reverse Lunge,"['Butt/Hips', 'Legs - Thighs']",Intermediate,['Barbell'],ReverseLunge_319-1.jpg,ReverseLunge_319-2.jpg
+Plank-ups,"['Abs', 'Arms', 'Chest']",Intermediate,['No Equipment'],Plank-ups_320-1.jpg,Plank-ups_320-2.jpg
+Single Arm Plank,['Abs'],Intermediate,['No Equipment'],SingleArmPlank_321-1.jpg,SingleArmPlank_321-2.jpg
+Lateral Crawls,['Full Body/Integrated'],Intermediate,['No Equipment'],LateralCrawls_328-1.jpg,LateralCrawls_328-2.jpg
+Standing Anti-rotation Press,"['Abs', 'Arms', 'Chest']",Intermediate,['Resistance Bands/Cables'],StandingAnti-rotationPress_332-1.jpg,StandingAnti-rotationPress_332-2.jpg
+Straight Arm Pressdown,['Back'],Intermediate,['Resistance Bands/Cables'],StraightArmPressdown_334-1.jpg,StraightArmPressdown_334-2.jpg
+Standing Row,['Back'],Intermediate,['Resistance Bands/Cables'],StandingRow_335-1.jpg,StandingRow_335-2.jpg
+High Row,['Back'],Intermediate,['Resistance Bands/Cables'],HighRow_336-1.jpg,HighRow_336-2.jpg
+Single Arm Row,['Back'],Intermediate,['Resistance Bands/Cables'],SingleArmRow_337-1.jpg,SingleArmRow_337-2.jpg
+Single-arm Chest Press,['Chest'],Intermediate,['Resistance Bands/Cables'],Single-armChestPress_338-1.jpg,Single-armChestPress_338-2.jpg
+Kneeling Hay Baler,['Full Body/Integrated'],Intermediate,['Resistance Bands/Cables'],KneelingHayBaler_341-1.jpg,KneelingHayBaler_341-2.jpg
+Squat to Row,['Full Body/Integrated'],Intermediate,['Resistance Bands/Cables'],SquattoRow_344-1.jpg,SquattoRow_344-2.jpg
+Reverse Fly,"['Back', 'Shoulders']",Intermediate,['Resistance Bands/Cables'],ReverseFly_353-1.jpg,ReverseFly_353-2.jpg
+Suitcase Carry,['Full Body/Integrated'],Intermediate,['Dumbbells'],SuitcaseCarry_358-1.jpg,SuitcaseCarry_358-2.jpg
+Farmer's Carry,['Full Body/Integrated'],Intermediate,['Dumbbells'],Farmer_sCarry_359-1.jpg,Farmer_sCarry_359-2.jpg
+Squat to Overhead Raise,"['Abs', 'Full Body/Integrated', 'Legs - Thighs', 'Shoulders']",Intermediate,['Dumbbells'],SquattoOverheadRaise_361-1.jpg,SquattoOverheadRaise_361-2.jpg
+Goblet Squat,"['Butt/Hips', 'Legs - Thighs']",Intermediate,['Dumbbells'],GobletSquat_362-1.jpg,GobletSquat_362-2.jpg
+Lunge,"['Butt/Hips', 'Legs - Thighs']",Intermediate,['Dumbbells'],Lunge_363-1.jpg,Lunge_363-2.jpg
+Lateral Lunge,"['Butt/Hips', 'Legs - Thighs']",Intermediate,['Dumbbells'],LateralLunge_364-1.jpg,LateralLunge_364-2.jpg
+Elevated Glute Bridge,['Butt/Hips'],Intermediate,"['Bench', 'Dumbbells']",ElevatedGluteBridge_367-1.jpg,ElevatedGluteBridge_367-2.jpg
+Rotational Uppercut,"['Arms', 'Full Body/Integrated', 'Shoulders']",Intermediate,['Dumbbells'],RotationalUppercut_369-1.jpg,RotationalUppercut_369-2.jpg
+Diagonal Raise,['Shoulders'],Intermediate,['Dumbbells'],DiagonalRaise_371-1.jpg,DiagonalRaise_371-2.jpg
+Pull-over Crunch,['Abs'],Intermediate,['Kettlebells'],Pull-overCrunch_380-1.jpg,Pull-overCrunch_380-2.jpg
+Half Turkish Get-up,['Full Body/Integrated'],Intermediate,['Kettlebells'],HalfTurkishGet-up_381-1.jpg,HalfTurkishGet-up_381-2.jpg
+Figure Eight,['Full Body/Integrated'],Intermediate,['Kettlebells'],FigureEight_382-1.jpg,FigureEight_382-2.jpg
+Suitcase Carry,['Full Body/Integrated'],Intermediate,['Kettlebells'],SuitcaseCarry_389-1.jpg,SuitcaseCarry_389-2.jpg
+Swing,['Full Body/Integrated'],Intermediate,['Kettlebells'],Swing_391-1.jpg,Swing_391-2.jpg
+Single Arm Overhead Press,"['Full Body/Integrated', 'Shoulders']",Intermediate,['Kettlebells'],SingleArmOverheadPress_395-1.jpg,SingleArmOverheadPress_395-2.jpg
+Deadlift,['Full Body/Integrated'],Advanced,['Barbell'],Deadlift_6-1.jpg,Deadlift_6-2.jpg
+Back Squat,"['Butt/Hips', 'Legs - Thighs']",Advanced,['Barbell'],BackSquat_11-1.jpg,BackSquat_11-2.jpg
+Bent-over Row,"['Arms', 'Back', 'Shoulders']",Advanced,['Barbell'],Bent-overRow_12-1.jpg,Bent-overRow_12-2.jpg
+Push Press,['Full Body/Integrated'],Advanced,['Barbell'],PushPress_24-1.jpg,PushPress_24-2.jpg
+Medicine Ball Push-ups,"['Abs', 'Chest', 'Shoulders']",Advanced,['Medicine Ball'],MedicineBallPush-ups_40-1.jpg,MedicineBallPush-ups_40-2.jpg
+Push-up with Single-leg Raise,"['Arms', 'Butt/Hips', 'Chest', 'Full Body/Integrated', 'Shoulders']",Advanced,['No Equipment'],Push-upwithSingle-legRaise_42-1.jpg,Push-upwithSingle-legRaise_42-2.jpg
+Stability Ball Knee Tucks,"['Abs', 'Legs - Calves and Shins']",Advanced,['Stability Ball'],StabilityBallKneeTucks_60-1.jpg,StabilityBallKneeTucks_60-2.jpg
+Stability Ball Pikes,"['Abs', 'Shoulders']",Advanced,['Stability Ball'],StabilityBallPikes_61-1.jpg,StabilityBallPikes_61-2.jpg
+Stability Ball Reverse Extensions,"['Back', 'Butt/Hips']",Advanced,['Stability Ball'],StabilityBallReverseExtensions_64-1.jpg,StabilityBallReverseExtensions_64-2.jpg
+Russian Twist,"['Abs', 'Butt/Hips', 'Legs - Thighs']",Advanced,['Stability Ball'],RussianTwist_65-1.jpg,RussianTwist_65-2.jpg
+Standing Shoulder Press,"['Arms', 'Shoulders']",Advanced,['Barbell'],StandingShoulderPress_71-1.jpg,StandingShoulderPress_71-2.jpg
+TRX ® Atomic Push-up,"['Abs', 'Arms', 'Chest', 'Shoulders']",Advanced,['TRX'],TRX®AtomicPush-up_77-1.jpg,TRX®AtomicPush-up_77-2.jpg
+TRX ® Biceps Curl,"['Abs', 'Arms']",Advanced,['TRX'],TRX®BicepsCurl_78-1.jpg,TRX®BicepsCurl_78-2.jpg
+TRX ® Front Rollout,['Abs'],Advanced,['TRX'],TRX®FrontRollout_79-1.jpg,TRX®FrontRollout_79-2.jpg
+TRX ® Overhead Triceps Extension,['Arms'],Advanced,['TRX'],TRX®OverheadTricepsExtension_80-1.jpg,TRX®OverheadTricepsExtension_80-2.jpg
+TRX ® Side-straddle Golf Swings ,"['Back', 'Chest', 'Shoulders']",Advanced,['TRX'],TRX®Side-straddleGolfSwings_81-1.jpg,TRX®Side-straddleGolfSwings_81-2.jpg
+TRX ® Back Row,"['Abs', 'Arms', 'Back']",Advanced,['TRX'],TRX®BackRow_84-1.jpg,TRX®BackRow_84-2.jpg
+TRX ® Chest Press,"['Abs', 'Arms', 'Chest']",Advanced,['TRX'],TRX®ChestPress_85-1.jpg,TRX®ChestPress_85-2.jpg
+TRX ® Hamstrings Curl ,"['Butt/Hips', 'Legs - Thighs']",Advanced,['TRX'],TRX®HamstringsCurl_86-1.jpg,TRX®HamstringsCurl_86-2.jpg
+TRX ® Suspended Knee Tucks,"['Abs', 'Chest']",Advanced,['TRX'],TRX®SuspendedKneeTucks_87-1.jpg,TRX®SuspendedKneeTucks_87-2.jpg
+TRX ® Suspended Pike,"['Abs', 'Shoulders']",Advanced,['TRX'],TRX®SuspendedPike_88-1.jpg,TRX®SuspendedPike_88-2.jpg
+TRX ® Suspended Push-up,"['Arms', 'Chest', 'Shoulders']",Advanced,['TRX'],TRX®SuspendedPush-up_89-1.jpg,TRX®SuspendedPush-up_89-2.jpg
+TRX ® Hip Press,"['Back', 'Butt/Hips', 'Legs - Thighs']",Advanced,['TRX'],TRX®HipPress_90-1.jpg,TRX®HipPress_90-2.jpg
+TRX ® Single-arm Chest Press,"['Abs', 'Arms', 'Chest']",Advanced,['TRX'],TRX®Single-armChestPress_91-1.jpg,TRX®Single-armChestPress_91-2.jpg
+TRX ® Single-arm Row,"['Abs', 'Arms', 'Back']",Advanced,['TRX'],TRX®Single-armRow_92-1.jpg,TRX®Single-armRow_92-2.jpg
+TRX ® Suspended Lunge,"['Abs', 'Butt/Hips', 'Legs - Thighs']",Advanced,['TRX'],TRX®SuspendedLunge_93-1.jpg,TRX®SuspendedLunge_93-2.jpg
+Forward Lunge with Arm Drivers,"['Abs', 'Butt/Hips', 'Legs - Thighs']",Advanced,['No Equipment'],ForwardLungewithArmDrivers_95-1.jpg,ForwardLungewithArmDrivers_95-2.jpg
+Glute Activation Lunges,"['Abs', 'Butt/Hips', 'Legs - Thighs']",Advanced,['No Equipment'],GluteActivationLunges_96-1.jpg,GluteActivationLunges_96-2.jpg
+Side Plank (Modified),"['Abs', 'Butt/Hips']",Advanced,['No Equipment'],SidePlank(Modified)_99-1.jpg,SidePlank(Modified)_99-2.jpg
+Standing Hay Baler,['Abs'],Advanced,['Medicine Ball'],StandingHayBaler_105-1.jpg,StandingHayBaler_105-2.jpg
+Standing Single-leg Cable Rotation,['Abs'],Advanced,['Resistance Bands/Cables'],StandingSingle-legCableRotation_107-1.jpg,StandingSingle-legCableRotation_107-2.jpg
+Standing Wood Chop,['Abs'],Advanced,['Medicine Ball'],StandingWoodChop_108-1.jpg,StandingWoodChop_108-2.jpg
+Single-leg Stand with Reaches,['Abs'],Advanced,['Medicine Ball'],Single-legStandwithReaches_114-1.jpg,Single-legStandwithReaches_114-2.jpg
+BOSU® Lateral Jumps,"['Abs', 'Butt/Hips', 'Legs - Thighs']",Advanced,['BOSU Trainer'],BOSU®LateralJumps_119-1.jpg,BOSU®LateralJumps_119-2.jpg
+Power Clean,['Full Body/Integrated'],Advanced,['Barbell'],PowerClean_125-1.jpg,PowerClean_125-2.jpg
+"Single-arm, Single-leg Romanian Dead Lift ","['Back', 'Butt/Hips']",Advanced,['Dumbbells'],Single-arm_Single-legRomanianDeadLift_127-1.jpg,Single-arm_Single-legRomanianDeadLift_127-2.jpg
+Single-arm Medicine Ball Push-up,"['Abs', 'Arms', 'Chest', 'Shoulders']",Advanced,['Medicine Ball'],Single-armMedicineBallPush-up_134-1.jpg,Single-armMedicineBallPush-up_134-2.jpg
+Lunge with Overhead Press,"['Abs', 'Butt/Hips', 'Full Body/Integrated', 'Legs - Thighs', 'Shoulders']",Advanced,['Medicine Ball'],LungewithOverheadPress_143-1.jpg,LungewithOverheadPress_143-2.jpg
+Inverted Flyers,"['Abs', 'Butt/Hips', 'Full Body/Integrated', 'Legs - Thighs']",Advanced,['No Equipment'],InvertedFlyers_144-1.jpg,InvertedFlyers_144-2.jpg
+Agility Ladder: Lateral Shuffle,"['Butt/Hips', 'Full Body/Integrated', 'Legs - Calves and Shins', 'Legs - Thighs']",Advanced,['Ladder'],AgilityLadder:LateralShuffle_170-1.jpg,AgilityLadder:LateralShuffle_170-2.jpg
+T Drill ,['Full Body/Integrated'],Advanced,['Cones'],TDrill_171-1.jpg,TDrill_171-2.jpg
+Multidirectional Ladder Drill,['Full Body/Integrated'],Advanced,['Ladder'],MultidirectionalLadderDrill_172-1.jpg,MultidirectionalLadderDrill_172-2.jpg
+Hexagon Drill,"['Abs', 'Butt/Hips', 'Full Body/Integrated', 'Legs - Thighs']",Advanced,['Cones'],HexagonDrill_207-1.jpg,HexagonDrill_207-2.jpg
+Spinal Twist with a Push-Pull Movement,"['Back', 'Chest', 'Shoulders']",Advanced,['No Equipment'],SpinalTwistwithaPush-PullMovement_219-1.jpg,SpinalTwistwithaPush-PullMovement_219-2.jpg
+Side-lying Arm Rolls,"['Abs', 'Shoulders']",Advanced,"['Dumbbells', 'No Equipment']",Side-lyingArmRolls_223-1.jpg,Side-lyingArmRolls_223-2.jpg
+Barbell Jammers,"['Abs', 'Butt/Hips', 'Full Body/Integrated', 'Legs - Calves and Shins', 'Legs - Thighs', 'Shoulders']",Advanced,['Barbell'],BarbellJammers_236-1.jpg,BarbellJammers_236-2.jpg
+Alternate Leg Push-off ,"['Butt/Hips', 'Legs - Calves and Shins', 'Legs - Thighs']",Advanced,['Raised Platform/Box'],AlternateLegPush-off_246-1.jpg,AlternateLegPush-off_246-2.jpg
+Inchworms,"['Abs', 'Arms', 'Back', 'Chest', 'Full Body/Integrated', 'Shoulders']",Advanced,['No Equipment'],Inchworms_254-1.jpg,Inchworms_254-2.jpg
+Mountain Climbers,"['Butt/Hips', 'Full Body/Integrated', 'Legs - Thighs']",Advanced,['No Equipment'],MountainClimbers_258-1.jpg,MountainClimbers_258-2.jpg
+Medicine Ball Lunge to Chest Pass,"['Abs', 'Back', 'Butt/Hips', 'Chest', 'Full Body/Integrated', 'Shoulders']",Advanced,['Medicine Ball'],MedicineBallLungetoChestPass_264-1.jpg,MedicineBallLungetoChestPass_264-2.jpg
+Lateral Zig Zags,"['Legs - Calves and Shins', 'Legs - Thighs']",Advanced,['Cones'],LateralZigZags_272-1.jpg,LateralZigZags_272-2.jpg
+Power Push Down,"['Arms', 'Chest']",Advanced,['Medicine Ball'],PowerPushDown_286-1.jpg,PowerPushDown_286-2.jpg
+Rotational Slam,['Full Body/Integrated'],Advanced,['Medicine Ball'],RotationalSlam_287-1.jpg,RotationalSlam_287-2.jpg
+Supine Suitcase Pass,['Abs'],Advanced,['Stability Ball'],SupineSuitcasePass_297-1.jpg,SupineSuitcasePass_297-2.jpg
+Prone Runner,['Full Body/Integrated'],Advanced,['Stability Ball'],ProneRunner_298-1.jpg,ProneRunner_298-2.jpg
+Prone ABC's,['Abs'],Advanced,['Stability Ball'],ProneABC_s_300-1.jpg,ProneABC_s_300-2.jpg
+Single Leg Hamstring Curl,"['Butt/Hips', 'Legs - Thighs']",Advanced,['Stability Ball'],SingleLegHamstringCurl_301-1.jpg,SingleLegHamstringCurl_301-2.jpg
+Burpee,['Full Body/Integrated'],Advanced,['BOSU Trainer'],Burpee_306-1.jpg,Burpee_306-2.jpg
+Pistol Squat Workout,['Butt/Hips'],Advanced,['BOSU Trainer'],PistolSquatWorkout_308-1.jpg,PistolSquatWorkout_308-2.jpg
+Roll Out,['Abs'],Advanced,['Barbell'],RollOut_309-1.jpg,RollOut_309-2.jpg
+Hang Clean,['Full Body/Integrated'],Advanced,['Barbell'],HangClean_312-1.jpg,HangClean_312-2.jpg
+Push Jerk,['Full Body/Integrated'],Advanced,['Barbell'],PushJerk_313-1.jpg,PushJerk_313-2.jpg
+Snatch,['Full Body/Integrated'],Advanced,['Barbell'],Snatch_314-1.jpg,Snatch_314-2.jpg
+Front Squat to Overhead Press,['Full Body/Integrated'],Advanced,['Barbell'],FrontSquattoOverheadPress_315-1.jpg,FrontSquattoOverheadPress_315-2.jpg
+"Single Arm, Single Leg Plank",['Full Body/Integrated'],Advanced,['No Equipment'],SingleArm_SingleLegPlank_325-1.jpg,SingleArm_SingleLegPlank_325-2.jpg
+Push-up with Staggered Hands,"['Arms', 'Chest']",Advanced,['No Equipment'],Push-upwithStaggeredHands_327-1.jpg,Push-upwithStaggeredHands_327-2.jpg
+Single-leg Romanian Deadlift,['Butt/Hips'],Advanced,['No Equipment'],Single-legRomanianDeadlift_329-1.jpg,Single-legRomanianDeadlift_329-2.jpg
+High Plank T-spine Rotation,"['Abs', 'Shoulders']",Advanced,['No Equipment'],HighPlankT-spineRotation_330-1.jpg,HighPlankT-spineRotation_330-2.jpg
+Single-arm Rotational Press,['Chest'],Advanced,['Resistance Bands/Cables'],Single-armRotationalPress_339-1.jpg,Single-armRotationalPress_339-2.jpg
+Kneeling Wood Chop,['Full Body/Integrated'],Advanced,['Resistance Bands/Cables'],KneelingWoodChop_340-1.jpg,KneelingWoodChop_340-2.jpg
+Pull to Press,['Full Body/Integrated'],Advanced,['Resistance Bands/Cables'],PulltoPress_342-1.jpg,PulltoPress_342-2.jpg
+Side Plank Row,['Full Body/Integrated'],Advanced,['Resistance Bands/Cables'],SidePlankRow_343-1.jpg,SidePlankRow_343-2.jpg
+Lunge to Single Arm Row,['Full Body/Integrated'],Advanced,['Resistance Bands/Cables'],LungetoSingleArmRow_345-1.jpg,LungetoSingleArmRow_345-2.jpg
+Transverse Lunge to Single Arm Row,['Full Body/Integrated'],Advanced,['Resistance Bands/Cables'],TransverseLungetoSingleArmRow_346-1.jpg,TransverseLungetoSingleArmRow_346-2.jpg
+Lateral Lunge Wood Chop,['Full Body/Integrated'],Advanced,['Resistance Bands/Cables'],LateralLungeWoodChop_347-1.jpg,LateralLungeWoodChop_347-2.jpg
+Standing Rotational Chop,['Full Body/Integrated'],Advanced,['Resistance Bands/Cables'],StandingRotationalChop_349-1.jpg,StandingRotationalChop_349-2.jpg
+Single Leg Romanian Dead Lift,['Butt/Hips'],Advanced,['Resistance Bands/Cables'],SingleLegRomanianDeadLift_350-1.jpg,SingleLegRomanianDeadLift_350-2.jpg
+Renegade Row,['Full Body/Integrated'],Advanced,['Dumbbells'],RenegadeRow_355-1.jpg,RenegadeRow_355-2.jpg
+Offset Single-arm Chest Press,"['Chest', 'Full Body/Integrated']",Advanced,"['Bench', 'Dumbbells']",OffsetSingle-armChestPress_356-1.jpg,OffsetSingle-armChestPress_356-2.jpg
+Squat to Overhead Press,['Full Body/Integrated'],Advanced,['Dumbbells'],SquattoOverheadPress_357-1.jpg,SquattoOverheadPress_357-2.jpg
+Reverse Lunge with Rotation,"['Abs', 'Full Body/Integrated', 'Legs - Thighs']",Advanced,['Dumbbells'],ReverseLungewithRotation_360-1.jpg,ReverseLungewithRotation_360-2.jpg
+Transverse Lunge,['Butt/Hips'],Advanced,['Dumbbells'],TransverseLunge_365-1.jpg,TransverseLunge_365-2.jpg
+Bulgarian Split Squat,['Butt/Hips'],Advanced,"['Bench', 'Dumbbells']",BulgarianSplitSquat_366-1.jpg,BulgarianSplitSquat_366-2.jpg
+Rotational Overhead Press,['Shoulders'],Advanced,['Dumbbells'],RotationalOverheadPress_368-1.jpg,RotationalOverheadPress_368-2.jpg
+Simultaneous Waves,['Full Body/Integrated'],Advanced,['Heavy Ropes'],SimultaneousWaves_374-1.jpg,SimultaneousWaves_374-2.jpg
+Simultaneous Wave with Reverse Lunges,['Full Body/Integrated'],Advanced,['Heavy Ropes'],SimultaneousWavewithReverseLunges_375-1.jpg,SimultaneousWavewithReverseLunges_375-2.jpg
+Asynchronous Waves,['Full Body/Integrated'],Advanced,['Heavy Ropes'],AsynchronousWaves_376-1.jpg,AsynchronousWaves_376-2.jpg
+Lateral Waves,['Full Body/Integrated'],Advanced,['Heavy Ropes'],LateralWaves_377-1.jpg,LateralWaves_377-2.jpg
+Double Rotation Waves,['Full Body/Integrated'],Advanced,['Heavy Ropes'],DoubleRotationWaves_378-1.jpg,DoubleRotationWaves_378-2.jpg
+Clean and Press,['Full Body/Integrated'],Advanced,['Kettlebells'],CleanandPress_383-1.jpg,CleanandPress_383-2.jpg
+Double Push-press,['Full Body/Integrated'],Advanced,['Kettlebells'],DoublePush-press_384-1.jpg,DoublePush-press_384-2.jpg
+Push-jerk,['Full Body/Integrated'],Advanced,['Kettlebells'],Push-jerk_385-1.jpg,Push-jerk_385-2.jpg
+High Windmill,['Full Body/Integrated'],Advanced,['Kettlebells'],HighWindmill_386-1.jpg,HighWindmill_386-2.jpg
+Low Windmill,['Full Body/Integrated'],Advanced,['Kettlebells'],LowWindmill_387-1.jpg,LowWindmill_387-2.jpg
+Turkish Get-up,['Full Body/Integrated'],Advanced,['Kettlebells'],TurkishGet-up_388-1.jpg,TurkishGet-up_388-2.jpg
+Waiter's Carry,['Full Body/Integrated'],Advanced,['Kettlebells'],Waiter_sCarry_390-1.jpg,Waiter_sCarry_390-2.jpg
+Single Arm Swing,['Full Body/Integrated'],Advanced,['Kettlebells'],SingleArmSwing_392-1.jpg,SingleArmSwing_392-2.jpg
+Single Arm Overhead Squat,"['Back', 'Full Body/Integrated', 'Legs - Thighs', 'Shoulders']",Advanced,['Kettlebells'],SingleArmOverheadSquat_393-1.jpg,SingleArmOverheadSquat_393-2.jpg
+Halo,"['Back', 'Butt/Hips', 'Chest', 'Full Body/Integrated', 'Legs - Thighs', 'Shoulders']",Advanced,['Kettlebells'],Halo_394-1.jpg,Halo_394-2.jpg
+Bottom-up Press,"['Chest', 'Full Body/Integrated', 'Shoulders']",Advanced,['Kettlebells'],Bottom-upPress_396-1.jpg,Bottom-upPress_396-2.jpg

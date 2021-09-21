@@ -1,3 +1,5 @@
+{% from 'bootstrap/form.html' import render_field, render_form %}
+
 {% extends "base.html" %}
 {% block content %}
 
@@ -5,7 +7,30 @@
     <h1><img src="/static/logo.png" alt="logo" style="width:100px;height:100px;">  Circuit Randomizer</h1>
 </div>
 
+<div class="container-fluid">
+    <form action='/' , method='POST'>
+        {{ render_form(form, form_type="horizontal") }}
+    </form>
+</div>
+
 <div class='container-fluid'>
-    {{ chosen_exercises | safe }}
+    {{ table_exercises | safe }}
+</div>
+
+<div class='card-deck'>    
+    {% for title, body_part, difficulty, equipment, image1, image2 in chosen_exercises %}
+        <div class="card" style="width: 18rem;">
+          <img class="card-img-top" style="height:200px; object-fit:cover"src="{{url_for('static', filename='data/images/'+image1)}}" alt="{{title}}">
+          <div class="card-body">
+            <h5 class="card-title">{{ title }}</h5>
+            <p class="card-text">
+                Body parts: {{ body_part }}
+                Equipment: {{ equipment }}
+                Difficulty: {{ difficulty }}
+            </p>
+          </div>
+        </div>
+    {% endfor %}
+    
 </div>
 {% endblock %}
