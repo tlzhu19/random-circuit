@@ -1,6 +1,6 @@
 # random-circuit
 
-Setup:
+## Setup:
 
 1. clone git repo
 ```
@@ -31,3 +31,8 @@ python app.py
 deactivate
 ```
 
+## Deployment
+Heroku App: https://circuit-randomizer.herokuapp.com/
+
+## Data
+I do not own any of the data. It was scraped from https://www.acefitness.org/

@@ -1,1 +1,1 @@
-web: gunicorn app:app
+web: gunicorn random_circuit_app/app:app
