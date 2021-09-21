@@ -45,9 +45,6 @@ def index():
         
         form.set_choices()
     
-#         return render_template('index.html', 
-#                                form=form, 
-#                                chosen_exercises=chosen_exercises.to_html(classes=["table-bordered", "table-striped"], header=True, index=False))
         return render_template('index.html', 
                                form=form, 
                                chosen_exercises=chosen_exercises.values.tolist(),

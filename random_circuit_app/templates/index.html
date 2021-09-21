@@ -8,29 +8,55 @@
 </div>
 
 <div class="container-fluid">
-    <form action='/' , method='POST'>
-        {{ render_form(form, form_type="horizontal") }}
-    </form>
-</div>
+    <h2>Select Workout Options</h2>
+    <div class="container-fluid">
+        <form action='/' , method='POST'>
+            {{ render_form(form, form_type="horizontal") }}
+        </form>
+    </div>
 
-<div class='container-fluid'>
-    {{ table_exercises | safe }}
-</div>
+    <h2>Random Circuit:</h2>
+    
+    
+    <div class='container-fluid'>
+        <ul class="nav nav-pills mb-3" id="pills-tab" role="tablist">
+          <li class="nav-item" role="presentation">
+            <a class="nav-link active" id="pills-tablelist-tab" data-toggle="pill" href="#pills-tablelist" role="tab" aria-controls="pills-tablelist" aria-selected="true"><i class="fa fa-list"></i></a>
+          </li>
+          <li class="nav-item" role="presentation">
+            <a class="nav-link" id="pills-cards-tab" data-toggle="pill" href="#pills-cards" role="tab" aria-controls="pills-cards" aria-selected="false"><i class="fa fa-th-large"></i></a>
+          </li>
+        </ul>
+        <div class="tab-content" id="pills-tabContent">
+          <div class="tab-pane fade show active" id="pills-tablelist" role="tabpanel" aria-labelledby="pills-tablelist-tab">
+              {{ table_exercises | safe }}
+          </div>
+            
+          <div class="tab-pane fade" id="pills-cards" role="tabpanel" aria-labelledby="pills-cards-tab">
+            <div class='card-deck'>    
+                {% for title, body_part, difficulty, equipment, image1, image2 in chosen_exercises %}
+                    <div class="card" style="width: 18rem;">
+                      <img class="card-img-top" style="height:200px; object-fit:cover"src="{{url_for('static', filename='data/images/'+image1)}}" alt="{{title}}">
+                      <img class="card-img-top" style="height:200px; object-fit:cover"src="{{url_for('static', filename='data/images/'+image2)}}" alt="{{title}}">
+                      <div class="card-body">
+                        <h5 class="card-title">{{ title }}</h5>
+                        <p class="card-text">
+                          <p>Body parts: {{ body_part }}</p>
+                          <p>Equipment: {{ equipment }}</p>
+                          <p>Difficulty: {{ difficulty }}</p>
+                        </p>
+                      </div>
+                    </div>
+                {% endfor %}
 
-<div class='card-deck'>    
-    {% for title, body_part, difficulty, equipment, image1, image2 in chosen_exercises %}
-        <div class="card" style="width: 18rem;">
-          <img class="card-img-top" style="height:200px; object-fit:cover"src="{{url_for('static', filename='data/images/'+image1)}}" alt="{{title}}">
-          <div class="card-body">
-            <h5 class="card-title">{{ title }}</h5>
-            <p class="card-text">
-                Body parts: {{ body_part }}
-                Equipment: {{ equipment }}
-                Difficulty: {{ difficulty }}
-            </p>
+            </div>
           </div>
         </div>
-    {% endfor %}
+        
+    </div>
     
+    
+
+
 </div>
 {% endblock %}

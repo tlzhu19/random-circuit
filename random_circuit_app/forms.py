@@ -8,7 +8,7 @@ class WorkoutsForm(FlaskForm):
     equipment_options = SelectMultipleField('Equipment')
     difficulty_options = SelectMultipleField('Difficulty')
     number_of_workouts = IntegerField('Number of Workouts')
-    submit = SubmitField('Submit')
+    submit = SubmitField('Randomize')
     
     def set_choices(self):
         self.body_part_options.choices = zip(BodyPart.list(), BodyPart.list())
