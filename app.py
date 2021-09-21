@@ -5,17 +5,13 @@ import pandas as pd
 import copy
 import os
 import random
-from src.workout_info import BodyPart, Equipment, Difficulty
-from forms import WorkoutsForm
+from random_circuit_app import app
+from random_circuit_app.forms import WorkoutsForm
+from random_circuit_app.src.workout_info import BodyPart, Equipment, Difficulty
 
 
-app = Flask(__name__)
-app.exercises_df = pd.read_csv(os.path.join('static', 'data', 'exercises_expanded.csv'))  # load data once, bind to app
+app.exercises_df = pd.read_csv(os.path.join('random_circuit_app', 'static', 'data', 'exercises_expanded.csv'))  # load data once, bind to app
 bootstrap = Bootstrap(app)
-
-# For the forms
-SECRET_KEY = os.urandom(32)
-app.config['SECRET_KEY'] = SECRET_KEY
 
 
 @app.route('/', methods=['GET','POST'])

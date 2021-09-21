@@ -1,6 +1,6 @@
 from flask_wtf import FlaskForm
 from wtforms import SelectMultipleField, IntegerField, SubmitField
-from src.workout_info import BodyPart, Equipment, Difficulty
+from random_circuit_app.src.workout_info import BodyPart, Equipment, Difficulty
 
 
 class WorkoutsForm(FlaskForm):
